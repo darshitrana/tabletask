@@ -1,0 +1,31 @@
+html,body
+{
+    margin:0;
+    width:100%;
+}
+.red
+{
+    height: 200px;
+    width: 200px;
+    float:left;
+    background:red;
+
+}
+.yellow
+{
+    height: 200px;
+    width: 200px;
+    float:left;
+    background: yellow;
+    margin-left:100px;
+}
+.blue
+{
+    height: 200px;
+    width: 200px;
+    float:left;
+    background: blue;
+    position: fixed;
+    right:50px;
+    bottom:20px;
+}

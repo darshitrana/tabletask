@@ -1,0 +1,71 @@
+html,body
+{
+
+    margin: 0;
+    height: 100%;
+    background: aliceblue;
+}
+.a
+{
+    margin:5px;
+    height: 150px;
+    width: 150px;
+    top: 0;
+    left:0;
+    position:absolute;
+    background: darkgrey;
+}
+.c
+{
+    margin:5px;
+    height: 150px;
+    width: 150px;
+    bottom: 0;
+    left:0;
+    position:absolute;
+    background: darkgrey;
+}
+.d
+{
+    margin:5px;
+    height: 150px;
+    width: 150px;
+    top: 0;
+    right:0;
+    position:absolute;
+    background: darkgrey;
+}
+.e
+{
+    margin:5px;
+    height: 150px;
+    width: 150px;
+    bottom: 0;
+    right:0;
+    position:absolute;
+    background: darkgrey;
+}
+.a1
+{
+    width:100%;
+    height:100%;
+    background:green;
+}
+.b1
+{
+    width:100%;
+    height:100%;
+    background:yellow;
+}
+.c1
+{
+    width:100%;
+    height:100%;
+    background:azure;
+}
+.d1
+{
+    width:100%;
+    height:100%;
+    background:peru;
+}
